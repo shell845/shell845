@@ -8,7 +8,7 @@ I'm Yvette from Toronto. Love travelling, writing and gardening. Always learning
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages :computer:
-| [<img src="https://user-images.githubusercontent.com/4274250/99733529-4a4a3800-2a8f-11eb-8578-80ab5325f628.png" alt="java logo" width="24">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |
+| [<img src="https://user-images.githubusercontent.com/4274250/99733529-4a4a3800-2a8f-11eb-8578-80ab5325f628.png" alt="java logo" width="24">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/)
 |---|---|---|---|---|---|
 
 ### Tools :wrench:
