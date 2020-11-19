@@ -18,14 +18,14 @@ I'm Yvette from Toronto. Love travelling, writing and gardening. Always learning
 | [<img src="https://user-images.githubusercontent.com/4274250/99735797-402a3880-2a93-11eb-94de-8b916b67ad47.png" alt="spring logo" width="30">]() |  [<img src="https://user-images.githubusercontent.com/4274250/99735918-77004e80-2a93-11eb-857c-329d1d150f47.png" alt="postgresql logo" width="30">]() | 
 |---|---|
 
-### Contacts :mailbox:
-| [<img src="https://user-images.githubusercontent.com/4274250/99736046-b464dc00-2a93-11eb-915d-6bbae364df05.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/yvettehuang/) |  [<img src="https://user-images.githubusercontent.com/4274250/99736224-07d72a00-2a94-11eb-96cb-47fc90dd681a.png" alt="postgresql logo" width="30">](https://www.instagram.com/yycc1024/) | 
-|---|---|---|---|---|---|---|
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=shell845&show_icons=true&theme=radical)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Contacts :mailbox:
+| [<img src="https://user-images.githubusercontent.com/4274250/99736046-b464dc00-2a93-11eb-915d-6bbae364df05.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/yvettehuang/) |  [<img src="https://user-images.githubusercontent.com/4274250/99736224-07d72a00-2a94-11eb-96cb-47fc90dd681a.png" alt="postgresql logo" width="24">](https://www.instagram.com/yycc1024/) | 
+|---|---|
 
+---
 ⭐️ From [shell845](https://github.com/shell845)
