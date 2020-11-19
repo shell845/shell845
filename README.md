@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shell845&show_icons=true&theme=Gradient)
+![github stats](https://github-readme-stats.vercel.app/api?username=shell845&show_icons=true&theme=gradient)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
