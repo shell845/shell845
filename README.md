@@ -7,13 +7,13 @@
 I'm Yvette from Toronto. Love travelling :airplane:, writing (fairy tales) :pencil2: and gardening :seedling:. Always learning new things :high_brightness:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Languages :computer:
+### :computer: Languages
 
 | [<img src="https://user-images.githubusercontent.com/4274250/99733529-4a4a3800-2a8f-11eb-8578-80ab5325f628.png" alt="java logo" width="30">](https://www.java.com/en/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="30">](https://www.python.org/)
 |---|---|
 
 
-### Tools :wrench:
+### :wrench: Tools
 
 Using
 
@@ -30,7 +30,7 @@ Learning
 ![github stats](https://github-readme-stats.vercel.app/api?username=shell845&show_icons=true&theme=radical)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Contacts :mailbox:
+### :mailbox: Contacts
 | [<img src="https://user-images.githubusercontent.com/4274250/99736046-b464dc00-2a93-11eb-915d-6bbae364df05.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/yvettehuang/) |  [<img src="https://user-images.githubusercontent.com/4274250/99736224-07d72a00-2a94-11eb-96cb-47fc90dd681a.png" alt="postgresql logo" width="24">](https://www.instagram.com/yycc1024/) | 
 |---|---|
 
