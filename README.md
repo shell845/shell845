@@ -4,7 +4,9 @@
 
 ### Hi there 👋
 
-I'm Yvette from Toronto, Canada. Love travelling :airplane:, writing (fantasy and science fiction) :pencil2: and gardening :seedling:. Always learning new things :high_brightness:
+I'm Yvette from Toronto, Canada.
+
+I love travelling :airplane:, writing (fantasy and science fiction) :pencil2: and gardening :seedling:. Always learning new things :high_brightness:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :computer: Languages
