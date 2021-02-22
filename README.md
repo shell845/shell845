@@ -32,9 +32,11 @@ Learning
 ![github stats](https://github-readme-stats.vercel.app/api?username=shell845&show_icons=true&theme=radical)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--
 ### :mailbox: Contacts
+
 | [<img src="https://user-images.githubusercontent.com/4274250/99736046-b464dc00-2a93-11eb-915d-6bbae364df05.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/yvettehuang/) |  [<img src="https://user-images.githubusercontent.com/4274250/99736224-07d72a00-2a94-11eb-96cb-47fc90dd681a.png" alt="postgresql logo" width="24">](https://www.instagram.com/yycc1024/) | 
 |---|---|
-
+-->
 ---
 ⭐️ From [shell845](https://github.com/shell845)
