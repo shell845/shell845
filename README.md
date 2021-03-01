@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Yvette from Toronto, Canada.
+I'm shell845 from Toronto, Canada.
 
 I love travelling :airplane:, writing (fantasy and science fiction) :pencil2: and gardening :seedling:. Always learning new things :high_brightness:
 
